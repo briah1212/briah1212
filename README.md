@@ -22,3 +22,8 @@ CS student at the University of Michigan, building across web, AI tooling, nativ
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+## Contact
+
+- Portfolio: [brianhsu.info](https://brianhsu.info)
+- Resume: [brianhsu.info/Resume.pdf](https://brianhsu.info/Resume.pdf)
