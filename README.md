@@ -27,3 +27,5 @@ CS student at the University of Michigan, building across web, AI tooling, nativ
 
 - Portfolio: [brianhsu.info](https://brianhsu.info)
 - Resume: [brianhsu.info/Resume.pdf](https://brianhsu.info/Resume.pdf)
+- LinkedIn: [linkedin.com/in/brianhsuu](https://www.linkedin.com/in/brianhsuu/)
+- Email: brianhsu1212@gmail.com
