@@ -5,3 +5,4 @@ CS student at the University of Michigan, building across web, AI tooling, nativ
 ## What I'm working on
 
 - **[Portfolio](https://github.com/briah1212/brianhsu-portfolio)** - personal site at [brianhsu.info](https://brianhsu.info), built as a fictional artifact OS where every visible object leads to a real technical case study.
+- **[PolyGlide](https://github.com/briah1212/PolyGlide)** - AI-powered multimodal translation and productivity hub.
